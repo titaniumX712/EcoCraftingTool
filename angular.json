@@ -27,8 +27,8 @@
             "main": "src/main.ts",
             "polyfills": "src/polyfills.ts",
             "tsConfig": "tsconfig.app.json",
-            "baseHref": "/EcoCraftingTool",
-            "deployUrl": "/EcoCraftingTool",
+            "baseHref": "/EcoCraftingTool/",
+            "deployUrl": "/EcoCraftingTool/",
             "assets": [
               "src/favicon.ico",
               "src/assets"
