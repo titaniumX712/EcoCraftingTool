@@ -1,5 +1,5 @@
 # FORK
-This fork using ingame translation! titaniumx712.github.io/ecocraftingtool/
+This fork using ingame translation! https://titaniumx712.github.io/ecocraftingtool/
 
 # Eco Crafting Tool
 
