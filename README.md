@@ -1,3 +1,6 @@
+# FORK
+This fork using ingame translation!
+
 # Eco Crafting Tool
 
 Crafting calculator for Eco Global Survival by Strange Loop Games located at https://eco-calc.com. Computes production
